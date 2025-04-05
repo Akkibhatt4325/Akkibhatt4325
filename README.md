@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkibhatt4325&label=Profile%20views&color=0e75b6&style=flat" alt="akkibhatt4325" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akkibhatt4325" alt="akkibhatt4325" /></a> </p>
-
 - 🔭 I’m currently working on [Data Analyst Dashboards , Data Cleanup etc](C:\Users\Amit Bhatt\Desktop\project 1.xlsm)
 
 - 🌱 I’m currently learning **tableau, SQL etc**
